@@ -9,6 +9,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 Airbnb, Inc. is San Francisco, California based company which act as a broker and provides an online marketplace for short-term homestays. The company charges a commission from each bookings. Aibnb providing it premium service and experience to customers  since 2008. Today Airbnb has millions of listings. These listings generates lost of data. Analyzing this data become crucial factor for the company. This data can be use for business decisions, marketing, implementations of initiatives, additional services and much more.
 
 # Snapshot Of Dashboard :-
+![Screenshot (18)](https://github.com/Hgorle68/AirBnB-Data-Analysis-power-BI-/assets/153175788/5dbafcd2-69fe-4595-b8b7-104da4cf9b75)
 
 
 # Problem Statement :-
