@@ -83,7 +83,7 @@ By analyzing the given data set customer can make several decision about their j
 
 2. Which host has maximum number of properties listed ?
 
-3.. Which host has maximum properties listed in neighbourhood groups having maximum properties listed ?
+3. Which host has maximum properties listed in neighbourhood groups having maximum properties listed ?
  
 4. What is the average price in different properties listed ?
  
